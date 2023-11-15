@@ -1,6 +1,6 @@
 # The Local Volume Complete Cluster Survey (LoVoCCS)
 
-
+This is the GitHub organisation for the LoVoCCS collaboration, where we hope to make our sample, analyses, and results easily available and version controlled. We will also attempt to provide access to raw data, but that is most likely **not feasible** due to the size and number of files.
 
 ## Main project overview
 
